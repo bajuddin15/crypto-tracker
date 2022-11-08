@@ -11,6 +11,4 @@
 
 ## Made By ♥ [Bajuddin Khan]
 
-[![Bajuddin Khan](https://avatars1.githubusercontent.com/u/51760520?v=3&s=144)](https://github.com/bajuddin15)
-
 MIT © [Bajuddin Khan ](https://github.com/bajuddin15)
